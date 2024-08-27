@@ -1,0 +1,20 @@
+---
+title: "Greedy(그리디) - 이해"
+excerpt: "Greedy algorithm에 대한 이해"
+
+
+categories:
+ - Python
+tags:
+ - Algorithm
+last_modified_at: 2024-08-27T21:02:00+09:00
+---
+
+<h2>Greedy algorithm이란?</h2>
+<strong>Greedy algorithm</strong>은 "현재 상황에서 지금 당장 좋은 것만 고르는 방법"이다.
+매 순간 가장 좋아 보이는 것을 선택하며, 현재의 선택이 나중에 미칠 영향에 대해서는 고려하지 않는다.
+따라서, 순간의 선택은 최적이지만, 전체 문제의 최적은 아닐 수 있다.
+
+
+
+
